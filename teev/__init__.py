@@ -9,7 +9,7 @@
     :copyright: (c) 2022 by Stepan Starovoitov.
     :license: BSD, see LICENSE for more details.
 """
-__version__ = "0.0.1.dev0"
+__version__ = "0.0.1.dev1"
 
 from teev.log import logger
 from teev.keyboard import *
