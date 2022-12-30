@@ -45,7 +45,7 @@ You need to provide proper telegram token in settings.py file.
     }
 
 
-You can see `examples <https://github.com/startech-live/teev/examples>`_ to find out more.
+You can see `examples <https://github.com/startech-live/teev/tree/main/examples>`_ to find out more.
 
 `Check out the teev Website <https://teev.startech.live/>`_ (Not yet available)
 
